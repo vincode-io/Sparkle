@@ -18,9 +18,9 @@
 
 "%@ of %@" = "%1$@ of %2$@";
 
-"A new version of %@ is available!" = "A new version of %@ is available!";
+"A new version of %@ is available!" = "A new version of %@ is available.";
 
-"A new version of %@ is ready to install!" = "A new version of %@ is ready to install!";
+"A new version of %@ is ready to install!" = "A new version of %@ is ready to install.";
 
 "An error occurred in retrieving update information. Please try again later." = "An error occurred in retrieving update information. Please try again later.";
 
@@ -88,4 +88,4 @@
 "You already have the newest version of %@." = "You already have the newest version of %@.";
 
 /* Status message shown when the user checks for updates but is already current or the feed doesn't contain any updates. */
-"You're up-to-date!" = "You’re up-to-date";
+"You're up-to-date!" = "You’re up to date.";
